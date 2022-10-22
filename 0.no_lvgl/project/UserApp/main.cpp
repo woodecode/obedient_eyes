@@ -38,7 +38,7 @@ void Main(){
 	
 	
 	
-	HAL_TIM_Base_Start_IT(&htim7);
+	// HAL_TIM_Base_Start_IT(&htim7);
 	
 	/*If FreeRTOS is used, the code block below should be removed*/
 	for(;;){

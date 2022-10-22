@@ -2,3 +2,8 @@
 /MDK-ARM/DebugConfig/
 /MDK-ARM/*.Q
 /MDK-ARM/*.uvoptx
+
+!/MDK-ARM/project/*.hex
+!/MDK-ARM/project/*.bin
+!/MDK-ARM/project/*.dis
+/MDK-ARM/project/*.*
